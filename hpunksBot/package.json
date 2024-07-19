@@ -1,0 +1,21 @@
+{
+    "name": "hpunks",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+      },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@neynar/nodejs-sdk": "^1.21.1",
+        "dotenv": "^16.4.5",
+        "fs": "^0.0.1-security",
+        "node-fetch": "^3.3.2"
+    }
+}
